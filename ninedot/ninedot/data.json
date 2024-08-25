@@ -1,0 +1,48 @@
+{
+  "categories": [
+    {
+      "name": "Citrus Fruits",
+      "image": "image1",
+      "fruits": ["Orange","Lemon","Lime","Grapefruit","Tangerine"]
+    },
+    {
+      "name": "Berries",
+      "image": "image2",
+      "fruits": ["Strawberry","Blueberry","Raspberry","Blackberry","Cranberry"]
+    },
+    {
+      "name": "Pome fruits",
+      "image": "image3",
+      "fruits": ["Apple","Pear","Quince"]
+    },
+    {
+      "name": "Tropical fruits",
+      "image": "image4",
+      "fruits": [ "Mango",
+          "Pineapple",
+          "Papaya",
+          "Banana",
+          "Kiwi",
+          "Dragon Fruit",
+          "Passion Fruit",
+          "Starfruit",
+          "Guava",
+          "Lychee",
+          "Rambutan",
+          "Mangosteen",
+          "Durian",
+          "Longan",
+          "Soursop"
+          ,"Coconut",
+          "Jackfruit",
+          "Breadfruit",
+          "Sapodilla",
+          "Cherimoya",
+          "Feijoa",
+          "Tamarind",
+          "Ackee",
+          "Salak",
+          "Jabuticaba"]
+    }
+  ]
+}
